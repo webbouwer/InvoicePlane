@@ -9,6 +9,8 @@
 
 # Other files
 /.htaccess
+.vscode
+.vscode/**/*
 .idea
 .sass-cache
 adminer.php
